@@ -32,16 +32,16 @@ Note - not all are fully implemented yet
 - [Arwen](https://acolytec3.github.io/arwen) - Hackathon dapp that provides Arweave file deployment and linking to ENS names along with ENS name resolution for Arweave apps
 
 ## Timeline:
-TBD - depends on what final v1.0 feature set is determined to be
-For current features - can probably have a fully functioning app ready for Android within 2-4 weeks
-iOS support will require some additional work due to signing functionality that required native code integration on Android
+- TBD - depends on what final v1.0 feature set is determined to be
+- For current features - can probably have a fully functioning app ready for Android within 2-4 weeks
+- iOS support will require some additional work due to signing functionality that required native code integration on Android
 
 ## Grant requested (DAI):
 
-Base grant: 5000 DAI for a fully featured v1.0 with funding delivered in installments based on milestones agreed upon between DAO and me
-Additional features: 2000 DAI for enhancements outlined in 'Future features' section above
-UX/UI/design work: 500 DAI to fund bounties on Gitcoin for design and UX work to make app more user-friendly.
-iOS integration: up to 250 DAI to fund bounties on Gitcoin to involve community to replicate Android native code integration
+- Base grant: 5000 DAI for a fully featured v1.0 with funding delivered in installments based on milestones agreed upon between DAO and me
+- Additional features: 2000 DAI for enhancements outlined in 'Future features' section above
+- UX/UI/design work: 500 DAI to fund bounties on Gitcoin for design and UX work to make app more user-friendly.
+- iOS integration: up to 250 DAI to fund bounties on Gitcoin to involve community to replicate Android native code integration
 
 ## Ethereum Address:
 0xBcAfdD642118e5536024675e776d32413728dd08
